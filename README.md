@@ -14,5 +14,5 @@ LANGKAH-LANGKAH PERULANGAN
 
 3. Kontrol perulangan
 
-<h1>STRUKTUR KONDISI LATIHAN 1</h1>
-![alt text](https://github.com/silfas14/labspy02/blob/main/Latihan1.py.png?raw=true)
+# STRUKTUR LATIHAN 1 
+![gambar]
