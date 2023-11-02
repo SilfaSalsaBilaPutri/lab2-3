@@ -14,5 +14,17 @@ LANGKAH-LANGKAH PERULANGAN
 
 3. Kontrol perulangan
 
-# STRUKTUR LATIHAN 1 
-![gambar]
+# STRUKTUR KONDISI LATIHAN 1 
+![gambar](ss1.png)
+
+# STRUKTUR KONDISI LATIHAN 2
+![gambar](ss2.png)
+
+# PERULANGAN LATIHAN 1 
+![gambar](ss3.png)
+
+# PERULANGAN LATIHAN 2
+![gambar](ss4.png)
+
+# FLOWCHART 
+![gambar](ss5.jpg)
